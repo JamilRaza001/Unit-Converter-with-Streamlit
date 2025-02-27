@@ -35,6 +35,8 @@ st.markdown("""
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         border-left: 5px solid #4ECDC4;
         animation: slideIn 0.5s ease-in-out;
+        color:rgb(3, 19, 18);
+        font-weight: 600;
     }
     
     /* Button styling */
